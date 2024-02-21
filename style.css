@@ -1,0 +1,8 @@
+.container{
+    padding: 20px;
+    margin: 5%;
+    border:solid 3px purple
+}
+#container{
+    border: dotted 3px orange;
+}
